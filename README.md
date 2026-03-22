@@ -73,7 +73,6 @@ I prefer building real-world projects over just learning theory — turning idea
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-codesuu.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://codesuu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saisanthu67-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisanthu67)
 [![Instagram](https://img.shields.io/badge/Instagram-@santhuverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santhuverse)
 [![Gmail](https://img.shields.io/badge/Gmail-saisanthoshborra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisanthoshborra@gmail.com)
@@ -95,7 +94,6 @@ I prefer building real-world projects over just learning theory — turning idea
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
