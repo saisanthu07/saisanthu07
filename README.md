@@ -156,15 +156,6 @@ I prefer building real-world projects over just learning theory — turning idea
 
 <br/>
 
-## 💡 Developer Quote
-
-<div align="center">
-
-> *"I prefer building real-world projects over just learning theory — and I enjoy turning ideas into working products 🚀"*
-> — **Borra Sai Santhosh**
-
-</div>
-
 ---
 
 <div align="center">
