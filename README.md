@@ -72,7 +72,7 @@ I prefer building real-world projects over just learning theory — turning idea
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saisanthu67-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisanthu67)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saisanthu67-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/saisanthoshborra/)
 [![Instagram](https://img.shields.io/badge/Instagram-@santhuverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santhuverse)
 [![Gmail](https://img.shields.io/badge/Gmail-saisanthoshborra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisanthoshborra@gmail.com)
 
