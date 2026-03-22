@@ -28,7 +28,6 @@ const saisanthosh = {
   name      : "Borra Sai Santhosh",
   alias     : "saisanthu07",
   location  : "Amalapuram, Andhra Pradesh 🇮🇳",
-  portfolio : "https://codesuu.vercel.app/",
   focus     : "Full Stack Development + AI-powered Apps",
   philosophy: "Build real-world products, not just tutorials 🚀",
   currentlyOn: "Collaborative coding platforms & dynamic portfolios",
