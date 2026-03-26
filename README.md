@@ -162,36 +162,6 @@ A real-time messaging platform built with MERN stack and WebSockets, enabling se
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather Forecast Web App
-**2025 · [Live Demo](https://github.com/saisanthu07/weather-forecast-web-app)**
-
-Flask app integrating OpenWeatherMap API with **99% forecast accuracy** and **15% reduced data latency** via optimized API calls. Deployed on Vercel end-to-end.
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisanthu07/weather-forecast-web-app)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio — codesuu.vercel.app
-**Personal Dev Portfolio**
-
-Personal developer portfolio showcasing projects, skills, certifications, and experience. Built with React and live on Vercel.
-
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
-
-[![Visit Live](https://img.shields.io/badge/Visit_Live-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://codesuu.vercel.app/)
-
-</td>
-</tr>
 </table>
 
 ---
@@ -234,19 +204,20 @@ B.Sc. Computer Science — Artificial Intelligence
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saisanthu07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=saisanthu07&theme=tokyonight&hide_border=false" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saisanthu07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=saisanthu07&theme=tokyonight&hide_border=false" />
 
 <br/><br/>
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisanthu07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+<!-- Most Used Languages — reflects actual repo code breakdown -->
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisanthu07&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&count_private=true&hide=html" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saisanthu07&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saisanthu07&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" />
 </div>
 
 ---
