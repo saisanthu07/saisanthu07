@@ -245,6 +245,5 @@ B.Sc. Computer Science — Artificial Intelligence
 
 **Thanks for visiting! Drop a ⭐ on something you like 😄**
 
-*"First, solve the problem. Then, write the code." — John Johnson*
 
 </div>
