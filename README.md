@@ -141,7 +141,6 @@ Built end-to-end in **4 months** with a team of 4 using Agile workflows. Feature
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisanthu07/codesuu)
 
 </td>
 <td width="50%" valign="top">
@@ -157,7 +156,6 @@ A real-time messaging platform built with MERN stack and WebSockets, enabling se
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/View_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saisanthu07/chatsuu)
 
 </td>
 </tr>
