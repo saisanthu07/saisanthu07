@@ -147,7 +147,7 @@ Built end-to-end in **4 months** with a team of 4 using Agile workflows. Feature
 <td width="50%" valign="top">
 
 ### 💬 ChatSuu — Real-Time Chat Application
-**2026**
+**2026 · [Live Demo](https://chatsuu.vercel.app/)**
 
 A real-time messaging platform built with MERN stack and WebSockets, enabling seamless live communication with room-based architecture and user authentication.
 
