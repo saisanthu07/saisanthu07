@@ -73,7 +73,6 @@ AWS Cloud Foundations · AWS Solutions Architecture · Computer Networks (NPTEL)
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-codesuu.vercel.app-7C3AED?style=for-the-badge)](https://codesuu.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saisanthu67-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisanthu67)
 [![Instagram](https://img.shields.io/badge/Instagram-@santhuverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santhuverse)
 [![Gmail](https://img.shields.io/badge/Gmail-saisanthoshborra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisanthoshborra@gmail.com)
