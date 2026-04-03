@@ -224,25 +224,10 @@ B.Sc. Computer Science — Artificial Intelligence
 
 <br/>
 
-<a href="https://github.com/users/saisanthu07/achievements/quickdraw">
-  <img src="https://github.com/users/saisanthu07/achievements/quickdraw/image" width="64" alt="Quickdraw" title="Quickdraw" />
-</a>
-&nbsp;
-<a href="https://github.com/users/saisanthu07/achievements/pull-shark">
-  <img src="https://github.com/users/saisanthu07/achievements/pull-shark/image" width="64" alt="Pull Shark" title="Pull Shark ×2" />
-</a>
-&nbsp;
-<a href="https://github.com/users/saisanthu07/achievements/yolo">
-  <img src="https://github.com/users/saisanthu07/achievements/yolo/image" width="64" alt="YOLO" title="YOLO" />
-</a>
-&nbsp;
-<a href="https://github.com/users/saisanthu07/achievements/pair-extraordinaire">
-  <img src="https://github.com/users/saisanthu07/achievements/pair-extraordinaire/image" width="64" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-</a>
-
-<br/><br/>
-
-**Quickdraw** &nbsp;|&nbsp; **Pull Shark ×2** &nbsp;|&nbsp; **YOLO** &nbsp;|&nbsp; **Pair Extraordinaire**
+[![Quickdraw](https://img.shields.io/badge/🏹%20Quickdraw-Achievement-FFD700?style=for-the-badge&labelColor=1a1b27)](https://github.com/users/saisanthu07/achievements/quickdraw)
+[![Pull Shark ×2](https://img.shields.io/badge/🦈%20Pull%20Shark-×2-1E90FF?style=for-the-badge&labelColor=1a1b27)](https://github.com/users/saisanthu07/achievements/pull-shark)
+[![YOLO](https://img.shields.io/badge/🎯%20YOLO-Achievement-FF4500?style=for-the-badge&labelColor=1a1b27)](https://github.com/users/saisanthu07/achievements/yolo)
+[![Pair Extraordinaire](https://img.shields.io/badge/👥%20Pair%20Extraordinaire-Achievement-7C3AED?style=for-the-badge&labelColor=1a1b27)](https://github.com/users/saisanthu07/achievements/pair-extraordinaire)
 
 </div>
 
