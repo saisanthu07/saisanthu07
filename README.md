@@ -230,6 +230,7 @@ B.Sc. Computer Science — Artificial Intelligence
 ![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)
 ![Pull Shark x2](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
 ![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
+![Pair Extraordinaire](https://github.com/users/saisanthu07/achievements/pair-extraordinaire)
 
 **Quickdraw** &nbsp;|&nbsp; **Pull Shark ×2** &nbsp;|&nbsp; **YOLO**
 
