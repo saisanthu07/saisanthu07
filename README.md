@@ -141,7 +141,6 @@ Built end-to-end in **4 months** with a team of 4 using Agile workflows. Feature
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
 
-
 </td>
 <td width="50%" valign="top">
 
@@ -155,7 +154,6 @@ A real-time messaging platform built with MERN stack and WebSockets, enabling se
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
-
 
 </td>
 </tr>
@@ -206,7 +204,6 @@ B.Sc. Computer Science — Artificial Intelligence
 
 <br/><br/>
 
-<!-- Most Used Languages — reflects actual repo code breakdown -->
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisanthu07&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&count_private=true&hide=html" />
 
 </div>
@@ -227,12 +224,25 @@ B.Sc. Computer Science — Artificial Intelligence
 
 <br/>
 
-![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)
-![Pull Shark x2](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-![Pair Extraordinaire](https://github.com/users/saisanthu07/achievements/pair-extraordinaire)
+<a href="https://github.com/users/saisanthu07/achievements/quickdraw">
+  <img src="https://github.com/users/saisanthu07/achievements/quickdraw/image" width="64" alt="Quickdraw" title="Quickdraw" />
+</a>
+&nbsp;
+<a href="https://github.com/users/saisanthu07/achievements/pull-shark">
+  <img src="https://github.com/users/saisanthu07/achievements/pull-shark/image" width="64" alt="Pull Shark" title="Pull Shark ×2" />
+</a>
+&nbsp;
+<a href="https://github.com/users/saisanthu07/achievements/yolo">
+  <img src="https://github.com/users/saisanthu07/achievements/yolo/image" width="64" alt="YOLO" title="YOLO" />
+</a>
+&nbsp;
+<a href="https://github.com/users/saisanthu07/achievements/pair-extraordinaire">
+  <img src="https://github.com/users/saisanthu07/achievements/pair-extraordinaire/image" width="64" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
+</a>
 
-**Quickdraw** &nbsp;|&nbsp; **Pull Shark ×2** &nbsp;|&nbsp; **YOLO**
+<br/><br/>
+
+**Quickdraw** &nbsp;|&nbsp; **Pull Shark ×2** &nbsp;|&nbsp; **YOLO** &nbsp;|&nbsp; **Pair Extraordinaire**
 
 </div>
 
@@ -243,6 +253,5 @@ B.Sc. Computer Science — Artificial Intelligence
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 **Thanks for visiting! Drop a ⭐ on something you like 😄**
-
 
 </div>
