@@ -58,7 +58,7 @@ Advanced Full Stack Development, Cloud Computing (AWS), and AI integration into 
 Scaling applications, cloud deployment strategies, and production-level system design.
 
 ### 💬 Ask Me About
-MERN Stack · Flask · WebSockets · Real-time apps · AWS · ChatGPT API Integration
+MERN Stack · WebSockets · Real-time apps · AWS · ChatGPT API Integration
 
 ### 🏅 Certifications
 AWS Cloud Foundations · AWS Solutions Architecture · Computer Networks (NPTEL)
