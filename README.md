@@ -1,122 +1,76 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a4e,100:7c3aed&height=220&section=header&text=Borra%20Sai%20Santhosh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Real-Time%20Systems%20%7C%20AI%20Builder&descSize=20&descAlignY=57&descFontColor=ffffffbb" />
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Borra%20Sai%20Santhosh&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Builder%20%7C%20Cloud%20Explorer&descAlignY=58&descSize=16&descColor=a0aec0" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&multiline=false&width=640&lines=Hey+there!+I'm+Sai+Santhosh+%F0%9F%91%8B;Full+Stack+%7C+MERN+%7C+AI+Apps;Building+real-world+products+%F0%9F%9A%80;CSE-AI+%40+Parul+University+%7C+AI+Specialization;Life+is+enjoy+%F0%9F%8E%AF" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=50&lines=Building+real-time+systems+from+scratch+%F0%9F%9B%A0%EF%B8%8F;CS+%2B+AI+undergrad+%40+Parul+University;Full-Stack+MERN+%7C+AWS+%7C+Socket.IO;Currently+shipping+codesuu.tech+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=saisanthu07&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
-&nbsp;
-<a href="https://github.com/saisanthu07?tab=followers">
-  <img src="https://img.shields.io/github/followers/saisanthu07?label=Followers&style=flat-square&color=302b63&labelColor=0f0c29" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/-saisanthoshborra-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saisanthoshborra)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://saisanthoshborra.vercel.app)
+[![Email](https://img.shields.io/badge/-saisanthoshborra%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saisanthoshborra@gmail.com)
+[![Codesuu Live](https://img.shields.io/badge/-codesuu.tech-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://codesuu.tech)
+[![Profile Views](https://komarev.com/ghpvc/?username=saisanthu07&color=7C3AED&style=flat-square&label=Profile+Views)](https://github.com/saisanthu07)
 
 </div>
 
 ---
 
-## 🧠 About Me ;)
+<div align="center">
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisanthu07&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+</div>
 
-```javascript
-const saisanthosh = {
+### 🟢 &nbsp; `saisanthu07` — Status: **ONLINE**
+
+```js
+// socket.on("recruiter:visit") — live response ↓
+
+const developer = {
   name       : "Borra Sai Santhosh",
-  alias      : "saisanthu07",
+  role       : "Full-Stack Developer  |  CS (AI) Undergraduate",
+  university : "Parul University, Vadodara  ·  2023–2027  ·  7.25 CGPA",
   location   : "Amalapuram, Andhra Pradesh 🇮🇳",
-  education  : "B.Sc. CS (AI) @ Parul University, Vadodara — Expected May 2027",
-  focus      : "Full Stack Development + AI-powered Web Apps",
-  philosophy : "Build real-world products, not just tutorials 🚀",
-  building   : "Real-time collaborative platforms & AI-integrated tools",
-  funFact    : "I turn caffeine ☕ and ideas 💡 into working products",
+  flagship   : "codesuu.tech  — Real-Time Collaborative Coding Platform",
+  stack      : ["MERN", "Socket.IO", "Yjs CRDT", "AWS", "LLM Integration"],
+  status     : "Placement prep + shipping features on codesuu",
+  github_pro : true,
+  open_to    : ["Full-Stack Roles", "SDE Internships", "Open Source"],
 };
+
+socket.emit("profile:loaded", developer); // ✅ 200 OK
 ```
 
-<br/>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 Currently Building
-Real-time web applications and AI-powered projects — including collaborative coding platforms, chat systems, and dynamic portfolios.
-
-### 👯 Open to Collaborate On
-Open-source projects, full-stack applications, and innovative ideas that solve real-world problems.
-
-### 🌱 Currently Learning
-Advanced Full Stack Development, Cloud Computing (AWS), and AI integration into production web apps.
-
-</td>
-<td width="50%">
-
-### 🤝 Looking for Help With
-Scaling applications, cloud deployment strategies, and production-level system design.
-
-### 💬 Ask Me About
-MERN Stack · WebSockets · Real-time apps · AWS · ChatGPT API Integration
-
-### 🏅 Certifications
-AWS Cloud Foundations · AWS Solutions Architecture · Computer Networks (NPTEL)
-
-</td>
-</tr>
-</table>
+<br clear="right"/>
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saisanthu67-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saisanthu67)
-[![Instagram](https://img.shields.io/badge/Instagram-@santhuverse-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/santhuverse)
-[![Gmail](https://img.shields.io/badge/Gmail-saisanthoshborra@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisanthoshborra@gmail.com)
+**Languages & Core**
 
-</div>
+<img src="https://skillicons.dev/icons?i=js,java,python,sql&theme=dark" />
 
----
+**Frontend**
 
-## 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css&theme=dark" />
 
-<div align="center">
+**Backend & Database**
 
-### 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
-### 🚀 Frontend & Backend
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+**Cloud, DevOps & Tools**
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
+<img src="https://skillicons.dev/icons?i=aws,vercel,render,github,git,postman&theme=dark" />
 
-### ☁️ Cloud & Deployment
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-
-### 🤖 AI & Productivity
-![ChatGPT API](https://img.shields.io/badge/ChatGPT%20API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6B6B?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+**Also working with:** &nbsp;
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white)
+![Yjs](https://img.shields.io/badge/Yjs_CRDT-4A4A4A?style=flat-square)
+![TanStack](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Monaco](https://img.shields.io/badge/Monaco_Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square)
 
 </div>
 
@@ -128,32 +82,48 @@ AWS Cloud Foundations · AWS Solutions Architecture · Computer Networks (NPTEL)
 <tr>
 <td width="50%" valign="top">
 
-### 🖥️ Codesuu — Real-Time Collaborative Coding Platform
-**2026 · [Live Demo](https://codesuu.vercel.app/)**
+### 🔴 [Codesuu](https://codesuu.tech/) &nbsp; ![Live](https://img.shields.io/badge/LIVE-1DD1A1?style=flat-square)
+**Real-Time Collaborative Coding Platform**
 
-Built end-to-end in **4 months** with a team of 4 using Agile workflows. Features isolated per-session sandboxes, host-controlled room management, and real-time participant monitoring.
+Built solo. Deployed to production. Used by real developers.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+- 🖥️ Multi-cursor editing via **Yjs CRDT + Socket.IO**
+- 🌐 **24+ language** code execution engine
+- 🎥 Integrated **video/audio** conferencing
+- 🔐 **Clerk auth** + host-controlled RBAC + Zod
+- 🛡️ Admin dashboard with live session monitoring
+- ⚡ Express 5 · React 18 · TanStack Query · Tailwind 4
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 ChatSuu — Real-Time Chat Application
-**2026 · [Live Demo](https://chatsuu.vercel.app/)**
+### 🟢 [ShikshaBridge](https://shikshabridge.vercel.app) &nbsp; ![AI](https://img.shields.io/badge/AI-NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+**AI-Powered EdTech for India's Schools**
 
-A real-time messaging platform built with MERN stack and WebSockets, enabling seamless live communication with room-based architecture and user authentication.
+Built with a team of 2 for government school students.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404d59?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white)
+- 🤖 **AI learning gap analysis** — LLaMA 3.1 via NVIDIA NIM
+- 👥 3-role system: Admin / Teacher / Student
+- 📊 Rule-based **recommendation engine** with mastery tracking
+- 🔒 JWT · RBAC · Helmet.js · rate limiting · NoSQL injection prevention
 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_NIM-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🔵 [Personal Portfolio](https://saisanthoshborra.vercel.app) — Full-Stack · Dual Backend (Express + Vercel Serverless)
+Responsive portfolio with MongoDB-backed contact system · email notifications + auto-reply · rate limiting · admin dashboard with search & pagination.
 
 </td>
 </tr>
@@ -161,37 +131,36 @@ A real-time messaging platform built with MERN stack and WebSockets, enabling se
 
 ---
 
-## 🎓 Education & Certifications
+## 🏅 GitHub Achievements
+
+<div align="center">
 
 <table>
 <tr>
-<td width="48%" valign="top">
-
-### 🎓 Education
-**Parul University, Vadodara, Gujarat**
-B.Sc. Computer Science — Artificial Intelligence
-📅 Expected: May 2027
-
+<td align="center" width="25%">
+<img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" /><br/>
+<b>Pull Shark</b> <code>×3</code><br/>
+<sub>PRs merged by others — three times</sub>
 </td>
-<td width="52%" valign="top">
-
-### 🏅 Certifications
-- 🟠 **AWS Academy Cloud Foundations** — Amazon Web Services *(2025)*
-- 🟠 **AWS Solutions Architecture** — Forage Virtual Experience *(2025)*
-- 🔵 **Computer Networks & Internet Protocol** — NPTEL / IIT *(2025)*
-
+<td align="center" width="25%">
+<img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" /><br/>
+<b>Pair Extraordinaire</b><br/>
+<sub>Collaborated on paired commits</sub>
+</td>
+<td align="center" width="25%">
+<img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" /><br/>
+<b>Quickdraw</b><br/>
+<sub>Closed an issue within minutes</sub>
+</td>
+<td align="center" width="25%">
+<img width="80" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" /><br/>
+<b>YOLO</b><br/>
+<sub>Merged PR without a code review</sub>
 </td>
 </tr>
 </table>
 
----
-
-## 🌍 Community & Events
-
-| Event | Highlights | Year |
-|---|---|---|
-| ☁️ **AWS Community Day** | Serverless Architecture · AWS Lambda · SageMaker · Cloud Security | 2025, 2026 |
-| 🌐 **Multi-Cloud Workshop** | Cloud integration · Deployment strategies · Multi-platform infrastructure | Dec 2025 |
+</div>
 
 ---
 
@@ -199,48 +168,53 @@ B.Sc. Computer Science — Artificial Intelligence
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saisanthu07&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=saisanthu07&theme=tokyonight&hide_border=false" />
-
-<br/><br/>
-
-<!-- Most Used Languages — reflects actual repo code breakdown -->
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisanthu07&theme=tokyonight&hide_border=false&layout=compact&langs_count=8&count_private=true&hide=html" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=saisanthu07&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=saisanthu07&hide_border=true&background=0d1117&stroke=7c3aed&ring=58a6ff&fire=1dd1a1&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=c9d1d9" />
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saisanthu07&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area=true&hide_border=false&custom_title=Contribution%20Graph" />
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=saisanthu07&bg_color=0d1117&color=58a6ff&line=7c3aed&point=1dd1a1&area=true&area_color=7c3aed&hide_border=true&radius=8" />
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## 📜 Certifications & Community
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saisanthu07&theme=darkhub&no-frame=false&no-bg=true&margin-w=10&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+| &nbsp; | Certification | Issuer | Year |
+|:---:|:---|:---|:---:|
+| ☁️ | **AWS Academy Cloud Foundations** | Amazon Web Services | 2026 |
+| 🌐 | **Computer Networks & Internet Protocol** | NPTEL / IIT Kharagpur | 2025 |
+| 🎤 | **AWS Community Day** — Attendee | AWS India | 2025 & 2026 |
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+*I build things that work in real-time. If you're a recruiter, collaborator, or fellow builder — reach out.*
 
 <br/>
 
-![Quickdraw](https://github.githubassets.com/assets/quickdraw-default--light-8f798b35341a.png)
-![Pull Shark x2](https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png)
-![YOLO](https://github.githubassets.com/assets/yolo-default-be0bbff04951.png)
-![Pair Extraordinaire](https://github.com/users/saisanthu07/achievements/pair-extraordinaire.png)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saisanthoshborra)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saisanthoshborra.vercel.app)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saisanthoshborra@gmail.com)
+&nbsp;
+[![Codesuu](https://img.shields.io/badge/Codesuu-Try_Live-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://codesuu.tech)
 
-**Quickdraw** &nbsp;|&nbsp; **Pull Shark ×2** &nbsp;|&nbsp; **YOLO**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
-
-**Thanks for visiting! Drop a ⭐ on something you like 😄**
-
+<br/>
+<sub><i>Built with <code>Socket.emit("hardwork", "∞")</code> and a lot of console.log 🛠️</i></sub>
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1a1a4e,100:0d1117&height=120&section=footer&animation=fadeIn" />
