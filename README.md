@@ -254,7 +254,7 @@ B.Sc. Computer Science — Artificial Intelligence
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
-**Thanks for visiting! Drop a ⭐ on something you like 😄**
+**Thanks for visiting! Drop a ⭐ on something you like 😄❤️**
 
 
 </div>
